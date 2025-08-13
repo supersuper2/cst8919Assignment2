@@ -1,6 +1,4 @@
-# cst8919Assignment2
-
-# Cloud Service Equivalents – Azure vs AWS vs GCP
+# Cloud Service Equivalents – Azure vs AWS vs GCP - # cst8919Assignment2
 
 ## Objective
 This report compares selected Microsoft Azure services studied during the course with equivalent services from Amazon Web Services (AWS) and Google Cloud Platform (GCP). The focus is on core features, security and compliance, pricing models, and integration with DevSecOps practices.  
